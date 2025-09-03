@@ -1,3 +1,4 @@
 Comparar tasa de ataque en diferentes grupos
 Para identificar grupos a priorizar e intervención
 Usar paquete (sf)
+Usar paquete (sf) para leer informacion espacial
