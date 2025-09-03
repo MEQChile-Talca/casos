@@ -1,2 +1,3 @@
 Comparar tasa de ataque en diferentes grupos
 Para identificar grupos a priorizar e intervención
+3 Usar paquete (sf)
